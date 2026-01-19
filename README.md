@@ -16,6 +16,7 @@ Copy this into your Roo Code settings JSON to enable the "Reasoning" model:
   "modelId": "deepseek-reasoner",
   "temperature": 0.6
 }
+```
 
 ## 3. How to Use
 Install Roo Code.
@@ -23,5 +24,3 @@ Install Roo Code.
 Get a key from DeepSeek.
 
 Run Supabase init in your terminal.
-
-Maintained by MyAIVerdict.com
