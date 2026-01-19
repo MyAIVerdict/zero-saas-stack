@@ -17,7 +17,7 @@ Copy this into your Roo Code settings JSON to enable the "Reasoning" model:
   "temperature": 0.6
 }
 
-##3. How to Use
+## 3. How to Use
 Install Roo Code.
 
 Get a key from DeepSeek.
